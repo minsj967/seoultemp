@@ -8,7 +8,6 @@ import pandas as pd
 import datetime
 import os
 import plotly.express as px
-import koreanize_matplotlib   # 한글 폰트 자동 적용
 
 # ────────────── 1. 페이지 설정 ──────────────
 st.set_page_config(page_title="선택 날짜 vs 역대 기온",
