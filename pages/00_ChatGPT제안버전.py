@@ -8,7 +8,6 @@ import pandas as pd
 import datetime as dt
 import os, math
 import plotly.express as px
-import koreanize_matplotlib   # 한글 폰트
 
 # ────────────── 0. 공통 함수 ──────────────
 def load_csv(src, skiprows=7):
